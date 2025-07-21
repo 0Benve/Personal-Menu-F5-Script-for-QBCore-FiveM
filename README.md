@@ -32,3 +32,7 @@ Ideale per migliorare la qualità dell’esperienza utente e fornire un accesso 
 
 > **🔧 Dipendenze:**  
 > Questo script **richiede** [`ox_lib`](https://github.com/overextended/ox_lib) e [`qb-core`](https://github.com/qbcore-framework/qb-core).
+
+
+
+Credit: [[`https://github.com/0Benve`]](https://github.com/0Benve)
