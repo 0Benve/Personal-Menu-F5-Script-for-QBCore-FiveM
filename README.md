@@ -3,6 +3,8 @@
 
 # Personal-Menu-F5-Script-for-QBCore-FiveM
 
+Docs: [[`https://benve.gitbook.io/benve-docs`]](https://benve.gitbook.io/benve-docs)
+
 # Eng
 **🎛️ Personal Menu F5 Script for QBCore (FiveM)**
 
